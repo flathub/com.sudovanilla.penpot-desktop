@@ -11,6 +11,7 @@ command: run.sh
 finish-args:
   - --share=ipc
   - --socket=x11
+  - --socket=wayland
   - --share=network
 
 modules:

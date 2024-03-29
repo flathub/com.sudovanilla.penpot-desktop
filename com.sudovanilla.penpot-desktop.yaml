@@ -18,12 +18,12 @@ modules:
     buildsystem: simple
     sources:
       - type: file
-        url: https://sudovanilla.com/distribute/applications/penpot-desktop/v0.3.0/Penpot-Desktop-0.3.0.AppImage
-        sha256: ec959a55c61f02db8e7addeffc0bd89114dfab004f67c9f924a683af033dc42f
+        url: https://sudovanilla.com/distribute/applications/penpot-desktop/v0.3.1/Penpot%20Desktop-0.3.1.AppImage
+        sha256: 48a50166200de21955ca286cb14d4a516bf9527c41c945e6047250fd70d4e691
         only-arches: [x86_64]
       - type: file
-        url: https://sudovanilla.com/distribute/applications/penpot-desktop/v0.3.0/Penpot-Desktop-0.3.0-arm64.AppImage
-        sha256: bbb2a6cf64fdf121b3443f867b6153c703b78b30ac187fd0749a8635e3246528
+        url: https://sudovanilla.com/distribute/applications/penpot-desktop/v0.3.1/Penpot%20Desktop-0.3.1-arm64.AppImage
+        sha256: 2e6ea4d9ef4c226c355272a544abe44c05bd53160771860db8573f736078444b
         only-arches: [aarch64]
       - type: file
         path: ./run.sh

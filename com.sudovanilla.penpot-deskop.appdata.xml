@@ -3,9 +3,9 @@
   <id>com.sudovanilla.penpot-desktop</id>
   <launchable type="desktop-id">com.sudovanilla.penpot-desktop.desktop</launchable>
   <metadata_license>MIT</metadata_license>
-  <project_license>MIT</project_license>
+  <project_license>AGPL-3.0-or-later</project_license>
   <name>Penpot Desktop</name>
-  <summary>Design Freedom for Teams</summary>
+  <summary>Design and code beautiful products. Together.</summary>
   <description>
     <p>
       Penpot is the first Open Source design and prototyping platform meant for cross-domain teams. Non dependent on operating systems, Penpot is web based and works with open web standards (SVG). For everyone and empowered by the community.
@@ -14,7 +14,12 @@
     </p>
   </description>
   <screenshots>
-    <screenshot type="default">https://sudovanilla.com/content/images/penpot-linux-window.png</screenshot>
+    <screenshot type="default">
+      <image>https://sudovanilla.com/content/images/penpot-desktop-linux-1.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://sudovanilla.com/content/images/penpot-desktop-linux-2.png</image>
+    </screenshot>
   </screenshots>
   <categories>
     <category>Graphics</category>
@@ -24,6 +29,20 @@
   <developer_name>SudoVanilla</developer_name>
   <content_rating type="oars-1.0" />
   <releases>
+      <release version="0.3.1" date="2024-03-29" urgency="low">
+      <description>
+        <ul>
+          <li>Switch to AGPL V3 license</li>
+          <li>Added all new components</li>
+          <li>Updated settings dialog</li>
+          <li>Updated titlebar</li>
+          <li>Updated empty state when there are no tabs</li>
+          <li>Upgraded all packages</li>
+          <li>Removed old code</li>
+          <li>Removed old resources</li>
+        </ul>
+      </description>
+    </release>
     <release date="2023-10-05" version="0.3.0" />
     <release date="2023-07-01" version="0.2.3" />
   </releases>

@@ -14,7 +14,8 @@
     </p>
   </description>
   <screenshots>
-    <screenshot type="default">https://sudovanilla.com/content/images/penpot-linux-window.png</screenshot>
+    <screenshot type="default">https://sudovanilla.com/content/images/penpot-desktop-linux-1.png</screenshot>
+    <screenshot>https://sudovanilla.com/content/images/penpot-desktop-linux-2.png</screenshot>
   </screenshots>
   <categories>
     <category>Graphics</category>

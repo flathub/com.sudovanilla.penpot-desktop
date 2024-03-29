@@ -2,7 +2,7 @@
 <component type="desktop-application">
   <id>com.sudovanilla.penpot-desktop</id>
   <launchable type="desktop-id">com.sudovanilla.penpot-desktop.desktop</launchable>
-  <metadata_license>AGPL-3.0-or-later</metadata_license>
+  <metadata_license>MIT</metadata_license>
   <project_license>AGPL-3.0-or-later</project_license>
   <name>Penpot Desktop</name>
   <summary>Design and code beautiful products. Together.</summary>

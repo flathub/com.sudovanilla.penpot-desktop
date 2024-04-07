@@ -12,6 +12,7 @@ finish-args:
   - --share=ipc
   - --socket=x11
   - --share=network
+  - --device=dri
 
 modules:
   - name: penpot-desktop
